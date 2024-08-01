@@ -1,5 +1,7 @@
 # Todo App
 
+![alt text](image.png)
+
 This is a simple Todo App created by ME Rafay.
 
 ## Features
